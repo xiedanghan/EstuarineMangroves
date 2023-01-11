@@ -1,0 +1,39 @@
+table-name           'Boundary Section : 4'
+contents             'Uniform             '
+location             'WRiver              '
+time-function        'non-equidistant'
+reference-time       20200101
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '                     unit '[min]'
+parameter            'total discharge (t)  end A'               unit '[m3/s]'
+parameter            'total discharge (t)  end B'               unit '[m3/s]'
+records-in-table     2
+ 0.0000000e+000  1.8000000e+001  9.9999900e+002
+ 1.0519200e+007  1.8000000e+001  9.9999900e+002
+table-name           'Boundary Section : 5'
+contents             'Uniform             '
+location             'NRiver              '
+time-function        'non-equidistant'
+reference-time       20200101
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '                     unit '[min]'
+parameter            'total discharge (t)  end A'               unit '[m3/s]'
+parameter            'total discharge (t)  end B'               unit '[m3/s]'
+records-in-table     2
+ 0.0000000e+000 -1.8000000e+001  9.9999900e+002
+ 1.0519200e+007 -1.8000000e+001  9.9999900e+002
+table-name           'Boundary Section : 6'
+contents             'Uniform             '
+location             'SRiver              '
+time-function        'non-equidistant'
+reference-time       20200101
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '                     unit '[min]'
+parameter            'total discharge (t)  end A'               unit '[m3/s]'
+parameter            'total discharge (t)  end B'               unit '[m3/s]'
+records-in-table     2
+ 0.0000000e+000  1.8000000e+001  9.9999900e+002
+ 1.0519200e+007  1.8000000e+001  9.9999900e+002

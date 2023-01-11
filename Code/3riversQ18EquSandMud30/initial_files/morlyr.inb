@@ -1,0 +1,9 @@
+[BedCompositionFileInformation]    
+   FileVersion      = 01.00
+[Layer] Transport layer
+   Type             = volume fraction
+   Thick            = 20        		[m]
+   Fraction1	    = 1			        [-]
+   Fraction2	    = 0				[-]
+
+
