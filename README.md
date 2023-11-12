@@ -1,7 +1,7 @@
 # Estuarine Mangroves
 [![DOI](https://zenodo.org/badge/587795297.svg)](https://zenodo.org/badge/latestdoi/587795297)
 
-*Estuarine Mangroves* is a modelling study investigating the long-term effects of anthro-bio-geomorphic feedback on estuarine landscape development where mangroves are present. The research is still in prepapration so the detailed results regarding this research will be updated soon. To use the model, please follow the instructions on the [Technical Document](Xie_TechnicalDocuments_EstuarineMangroveModel.pdf). Below are some highlights of this model.
+*Estuarine Mangroves* is a modelling study investigating the long-term effects of anthro-bio-geomorphic feedback on estuarine landscape development where mangroves are present. The research has been published in _Nature Communications_ and can be freely accessed through https://doi.org/10.1038/s41467-023-42733-1. To use the model, please follow the instructions on the [Technical Document](Xie_TechnicalDocuments_EstuarineMangroveModel.pdf). Below are some highlights of this model.
 
 ## Highlights
 ###### 1. Dynamic vegetation processes
