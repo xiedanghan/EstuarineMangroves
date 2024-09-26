@@ -22,7 +22,7 @@
   Overview of bio-morphodynamic interactions incorporated into the model. The modelling approach couples a hydro-morphodynamic model and a new dynamic vegetation model so that the interaction between tidal flow, sediment motion, morphological change and mangrove vegetation can be investigated.
 </div>
 
-###### 3. Bio-morphodynamic feedbacks controlling wetland resilience disturbed by human activity ([Xie, 2022](https://doi.org/10.33540/927))
+###### 3. Bio-morphodynamic feedback controlling wetland resilience disturbed by human activity ([Xie, 2022](https://doi.org/10.33540/927))
 <p align="center" width="100%">
 <img src="figs/Fig. 3 New bio-morphodynamic loop_v3.jpg" width="800">
 </p>
