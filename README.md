@@ -13,7 +13,7 @@
   Life stages incorporated in the bio-morphodynamic model, including colonization, growth and mortality
 </div> 
 
-###### 2. Bio-morphodynamic feedbacks
+###### 2. Bio-morphodynamic feedback
 <p align="center" width="100%">
 <img src="figs/Fig. 1 ModelFramework.png" width="500">
 </p>
